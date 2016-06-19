@@ -1,0 +1,46 @@
+E:\IUBAT\C# Sailor\Windpws Form Application\ProjectOnVotingSystem\ProjectOnVotingSystem\bin\Debug\ProjectOnVotingSystem.exe.config
+E:\IUBAT\C# Sailor\Windpws Form Application\ProjectOnVotingSystem\ProjectOnVotingSystem\bin\Debug\ProjectOnVotingSystem.exe
+E:\IUBAT\C# Sailor\Windpws Form Application\ProjectOnVotingSystem\ProjectOnVotingSystem\bin\Debug\ProjectOnVotingSystem.pdb
+E:\IUBAT\C# Sailor\Windpws Form Application\ProjectOnVotingSystem\ProjectOnVotingSystem\bin\Debug\MetroFramework.Design.dll
+E:\IUBAT\C# Sailor\Windpws Form Application\ProjectOnVotingSystem\ProjectOnVotingSystem\bin\Debug\MetroFramework.dll
+E:\IUBAT\C# Sailor\Windpws Form Application\ProjectOnVotingSystem\ProjectOnVotingSystem\bin\Debug\MetroFramework.Fonts.dll
+E:\IUBAT\C# Sailor\Windpws Form Application\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.csprojResolveAssemblyReference.cache
+E:\IUBAT\C# Sailor\Windpws Form Application\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.LogInUI.resources
+E:\IUBAT\C# Sailor\Windpws Form Application\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.Properties.Resources.resources
+E:\IUBAT\C# Sailor\Windpws Form Application\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.csproj.GenerateResource.Cache
+E:\IUBAT\C# Sailor\Windpws Form Application\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.exe
+E:\IUBAT\C# Sailor\Windpws Form Application\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.pdb
+E:\IUBAT\C# Sailor\Windpws Form Application\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.Interfaces.AdminIntefaces.ChooseFormUI.resources
+E:\IUBAT\C# Sailor\Windpws Form Application\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.Interfaces.AdminIntefaces.InsertUserFormUI.resources
+E:\IUBAT\SPRING 2016\CSC 469 - Software Engineering\myProject\Voting System Project\ProjectOnVotingSystem\ProjectOnVotingSystem\bin\Debug\ProjectOnVotingSystem.exe.config
+E:\IUBAT\SPRING 2016\CSC 469 - Software Engineering\myProject\Voting System Project\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.exe
+E:\IUBAT\SPRING 2016\CSC 469 - Software Engineering\myProject\Voting System Project\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.pdb
+E:\IUBAT\SPRING 2016\CSC 469 - Software Engineering\myProject\Voting System Project\ProjectOnVotingSystem\ProjectOnVotingSystem\bin\Debug\ProjectOnVotingSystem.exe
+E:\IUBAT\SPRING 2016\CSC 469 - Software Engineering\myProject\Voting System Project\ProjectOnVotingSystem\ProjectOnVotingSystem\bin\Debug\ProjectOnVotingSystem.pdb
+E:\IUBAT\SPRING 2016\CSC 469 - Software Engineering\myProject\Voting System Project\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.csprojResolveAssemblyReference.cache
+E:\IUBAT\SPRING 2016\CSC 469 - Software Engineering\myProject\Voting System Project\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.Interfaces.AdminIntefaces.ChooseFormUI.resources
+E:\IUBAT\SPRING 2016\CSC 469 - Software Engineering\myProject\Voting System Project\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.Interfaces.AdminIntefaces.ManageVoteFormUI.resources
+E:\IUBAT\SPRING 2016\CSC 469 - Software Engineering\myProject\Voting System Project\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.LogInUI.resources
+E:\IUBAT\SPRING 2016\CSC 469 - Software Engineering\myProject\Voting System Project\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.Interfaces.UserInterfaces.CastVoteFormUI.resources
+E:\IUBAT\SPRING 2016\CSC 469 - Software Engineering\myProject\Voting System Project\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.Properties.Resources.resources
+E:\IUBAT\SPRING 2016\CSC 469 - Software Engineering\myProject\Voting System Project\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.csproj.GenerateResource.Cache
+E:\IUBAT\SPRING 2016\CSC 469 - Software Engineering\myProject\Voting System Project\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.Interfaces.AdminIntefaces.ManageUserFormUI.resources
+E:\IUBAT\SPRING 2016\CSC 469 - Software Engineering\myProject\Voting System Project\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.Interfaces.UserInterfaces.ResultUi.resources
+E:\IUBAT\SPRING 2016\CSC 469 - Software Engineering\myProject\Voting System Project\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.Interfaces.CandidateInterface.CandidateUI.resources
+E:\IUBAT\SPRING 2016\CSC 469 - Software Engineering\myProject\Voting System Project\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.Interfaces.HomepageUI.resources
+C:\Users\wafi\Desktop\ProjectOnVotingSystem\ProjectOnVotingSystem\bin\Debug\ProjectOnVotingSystem.exe.config
+C:\Users\wafi\Desktop\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.exe
+C:\Users\wafi\Desktop\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.pdb
+C:\Users\wafi\Desktop\ProjectOnVotingSystem\ProjectOnVotingSystem\bin\Debug\ProjectOnVotingSystem.exe
+C:\Users\wafi\Desktop\ProjectOnVotingSystem\ProjectOnVotingSystem\bin\Debug\ProjectOnVotingSystem.pdb
+C:\Users\wafi\Desktop\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.csprojResolveAssemblyReference.cache
+C:\Users\wafi\Desktop\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.Interfaces.AdminIntefaces.ChooseFormUI.resources
+C:\Users\wafi\Desktop\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.Interfaces.AdminIntefaces.ManageUserFormUI.resources
+C:\Users\wafi\Desktop\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.Interfaces.AdminIntefaces.ManageVoteFormUI.resources
+C:\Users\wafi\Desktop\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.Interfaces.CandidateInterface.CandidateUI.resources
+C:\Users\wafi\Desktop\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.Interfaces.HomepageUI.resources
+C:\Users\wafi\Desktop\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.LogInUI.resources
+C:\Users\wafi\Desktop\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.Interfaces.UserInterfaces.ResultUi.resources
+C:\Users\wafi\Desktop\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.Interfaces.UserInterfaces.CastVoteFormUI.resources
+C:\Users\wafi\Desktop\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.Properties.Resources.resources
+C:\Users\wafi\Desktop\ProjectOnVotingSystem\ProjectOnVotingSystem\obj\Debug\ProjectOnVotingSystem.csproj.GenerateResource.Cache
